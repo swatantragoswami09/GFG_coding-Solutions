@@ -1,3 +1,9 @@
+// formula used:
+// int(10^(log10(product of elements in array)-int(log10(product of elements in array)))
+// int(10^(log10(a[i])-int(log10(a[i]))))
+
+
+
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
